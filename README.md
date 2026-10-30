@@ -1,5 +1,5 @@
 
-# 👋 Lamine Bouricha
+#  Lamine Bouricha
 
 ### Développeur informatique | CDA - ENI
 
